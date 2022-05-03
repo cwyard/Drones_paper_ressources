@@ -3,8 +3,8 @@ This folder contains ressources related to the work performed in Wyard et al. (2
 
 It contains:
 
-- Paper_RGB_test_13.ipynb: the Jupyter Notebook containing the processing chain 
-which is based on an integration of GRASS GIS and R within a Python programming environment.
+- Wyardetal2022_Drones_LandCoverClassificationLandfill.ipynb: the Jupyter Notebook containing the processing chain 
+which is based on an integration of GRASS GIS and R within a Python programming environment. This is the processing chain version used for Test #13.
 
 - HOW_TO_ACCESS_DATA.txt: contains the link to the cloud where samples, UAV RGB images and UAV 10-band images are stored;
 
